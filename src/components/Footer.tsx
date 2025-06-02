@@ -127,9 +127,9 @@ const Footer: React.FC = () => {
                 <span className="text-gray-400 text-sm">info@rovartechnologies.com</span>
               </li>
               <li className="text-gray-400 text-sm mt-2">
-                1234 Tech Boulevard, <br />
-                Innovation District, <br />
-                San Francisco, CA 94107
+              128 City Road,<br />
+              Road, London,<br />
+              EC1V 2NX, United Kingdom.
               </li>
             </ul>
           </div>

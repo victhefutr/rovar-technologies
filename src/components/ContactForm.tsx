@@ -22,7 +22,7 @@ const ContactSection: React.FC = () => {
             <div>
               <h4 className="text-white text-lg font-semibold mb-1">Email Us</h4>
               <a href="mailto:info@rovartechnologies.com" className="text-gray-400 hover:text-emerald-400 transition-colors">
-                info@rovartechnologies.com
+              info@rovartech.onmicrosoft.com
               </a>
             </div>
           </div>
@@ -34,7 +34,7 @@ const ContactSection: React.FC = () => {
             <div>
               <h4 className="text-white text-lg font-semibold mb-1">Call Us</h4>
               <a href="tel:+15551234567" className="text-gray-400 hover:text-emerald-400 transition-colors">
-                +1 (555) 123-4567
+                +447848399742
               </a>
             </div>
           </div>
@@ -46,9 +46,9 @@ const ContactSection: React.FC = () => {
             <div>
               <h4 className="text-white text-lg font-semibold mb-1">Visit Us</h4>
               <p className="text-gray-400">
-                1234 Tech Boulevard,<br />
-                Innovation District,<br />
-                San Francisco, CA 94107
+              128 City Road,<br />
+              Road, London,<br />
+              EC1V 2NX, United Kingdom.
               </p>
             </div>
           </div>
