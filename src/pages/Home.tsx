@@ -3,7 +3,6 @@ import HeroSection from '../components/HeroSection';
 import ServicesSection from '../components/ServicesSection';
 import TeamSection from '../components/TeamSection';
 import ProjectsSection from '../components/ProjectsSection';
-import TestimonialsSection from '../components/TestimonialsSection';
 import ContactForm from '../components/ContactForm';
 
 const Home: React.FC = () => {
@@ -13,7 +12,6 @@ const Home: React.FC = () => {
       <ServicesSection />
       <ProjectsSection homepage />
       <TeamSection homepage />
-      <TestimonialsSection />
       <ContactForm />
     </>
   );
