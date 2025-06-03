@@ -21,8 +21,8 @@ const projects: Project[] = [
     category: "Mobile App"
   },
   {
-    id: "Homify",
-    title: "Homify",
+    id: "Proptera",
+    title: "Proptera",
     description: "A real estate app where users can find houses to rent by directly liaising with housing agents, promoting transparency in the process.",
     image: "https://images.pexels.com/photos/1546168/pexels-photo-1546168.jpeg?auto=compress&cs=tinysrgb&w=1200",
     icon: <Home className="h-6 w-6" />,

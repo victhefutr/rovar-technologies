@@ -52,9 +52,9 @@ const projectDetails: Record<string, ProjectDetail> = {
     demoLink: "#",
     codeLink: "#"
   },
-  "Homify": {
-    id: "Homify",
-    title: "Homify",
+  "Proptera": {
+    id: "Proptera",
+    title: "Proptera",
     description: "A real estate app where users can find houses to rent by directly liaising with housing agents, promoting transparency in the process.",
     fullDescription: "Housify revolutionizes the rental market by removing the opacity often associated with real estate transactions. Our platform connects prospective tenants directly with housing agents, providing real-time updates on property status, application progress, and any pending issues. This transparency helps build trust and streamlines the rental process.",
     image: "https://images.pexels.com/photos/1546168/pexels-photo-1546168.jpeg?auto=compress&cs=tinysrgb&w=1200",
