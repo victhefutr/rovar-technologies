@@ -46,9 +46,8 @@ const ContactSection: React.FC = () => {
             <div>
               <h4 className="text-white text-lg font-semibold mb-1">Visit Us</h4>
               <p className="text-gray-400">
-              128 City Road,<br />
-              Road, London,<br />
-              EC1V 2NX, United Kingdom.
+                We are a technology company <br />
+                based in the UK, with a global reach.
               </p>
             </div>
           </div>

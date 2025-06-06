@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { Link, useLocation } from 'react-router-dom';
-import { Menu, X, Cpu } from 'lucide-react';
+import { Menu, X } from 'lucide-react';
+import Logo from '../assets/r.png'
 
 const Navbar: React.FC = () => {
   const [isOpen, setIsOpen] = useState(false);
@@ -43,7 +44,7 @@ const Navbar: React.FC = () => {
           {/* Logo */}
           <Link to="/" className="flex items-center">
             <div className="flex items-center">
-              <Cpu className="h-8 w-8 text-emerald-400 mr-2" />
+              <img src={Logo} alt="Logo" className="h-12 w-12 mr-2" />
               <span className="text-xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-emerald-400 to-green-300">
                 Rovar Technologies
               </span>
